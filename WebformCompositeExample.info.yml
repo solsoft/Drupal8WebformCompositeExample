@@ -1,0 +1,8 @@
+name: WebformCompositeExample
+description: 'Provides WebformCompositeExample webform composite element for Webform in Drupal 8.'
+type: module
+core: 8.x
+dependencies:
+  - webform
+  - 'webform:webform (>=8.x-5.x)'
+package: Custom
